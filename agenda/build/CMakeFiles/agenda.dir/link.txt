@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/agenda.dir/main.c.o CMakeFiles/agenda.dir/linkedlist.c.o -o agenda 

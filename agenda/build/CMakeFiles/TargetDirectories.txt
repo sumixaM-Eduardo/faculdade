@@ -1,0 +1,3 @@
+/home/maximus/cauet/trabalho_do_thiago/agenda/build/CMakeFiles/agenda.dir
+/home/maximus/cauet/trabalho_do_thiago/agenda/build/CMakeFiles/edit_cache.dir
+/home/maximus/cauet/trabalho_do_thiago/agenda/build/CMakeFiles/rebuild_cache.dir
