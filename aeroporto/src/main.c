@@ -5,6 +5,13 @@ Ryan Henrique Mendes Campos - 2025022450
 Geovane Alexandre - 2025022333
 */
 
+/*
+Integrantes:
+Maximus Eduardo Pacheco Cruz - 2025022558
+Ryan Henrique Mendes Campos - 2025022450
+Geovane Alexandre - 2025022333
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
